@@ -9,14 +9,14 @@ Boomerang description (paragraph 2)...
 ### 🐛 Bug Reports
 Looking to report a bug? You can do so over on our Discord server...
 
-## 📋 Service Credits
+### 📋 Service Credits
 This service/bot/application was created by:
 soundfade (lead dev)
 summerlytz (dev & ops manager)
 sv_lord5 (dev)
 Looking to contribute?...
 
-## ❓ Questions & Answers
+### ❓ Questions & Answers
 1. Question
    > Answer
 2. Question
