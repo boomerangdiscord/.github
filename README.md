@@ -1,2 +1,2 @@
-# Boomerang
+# 🪃 Boomerang
 Our about me repository.
