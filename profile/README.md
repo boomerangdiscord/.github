@@ -1,12 +1,26 @@
-## Hi there 👋
+<div align="center">
+  <h1><strong>Welcome to Boomerang's GitHub team!</strong></h1>
+</div>
 
-<!--
+Boomerang description...
 
-**Here are some ideas to get you started:**
+Boomerang description (paragraph 2)...
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 🐛 Bug Reports
+Looking to report a bug? You can do so over on our Discord server...
+
+## 📋 Service Credits
+This service/bot/application was created by:
+soundfade (lead dev)
+summerlytz (dev & ops manager)
+sv_lord5 (dev)
+Looking to contribute?...
+
+## ❓ Questions & Answers
+1. Question
+   > Answer
+2. Question
+   > Answer
+
+### 🌐 Social Links
+Looking for our discord server? Check it out [here]().
